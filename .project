@@ -3,6 +3,7 @@
 	<name>NEST</name>
 	<comment></comment>
 	<projects>
+		<project>twilio-java-sdk</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
